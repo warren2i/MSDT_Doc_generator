@@ -12,7 +12,7 @@ https://msrc-blog.microsoft.com/2022/05/30/guidance-for-cve-2022-30190-microsoft
 
 Usage 
 
-`git clone http://thisrepo`
+`git clone https://github.com/warren2i/MSDT_Doc_generator.git`
 
 to generate a document using the defaults
 (http://127.0.0.1:8000/index.html)
